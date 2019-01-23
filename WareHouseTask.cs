@@ -1,4 +1,4 @@
-namespace observersample
+namespace ObserverSample
 {
     public class WareHouseTask
     {

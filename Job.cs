@@ -1,6 +1,6 @@
 using System;
 
-namespace observersample
+namespace ObserverSample
 {
     public class Job : Observer
     {
@@ -9,7 +9,7 @@ namespace observersample
             Console.WriteLine("Job 1 ın statüsü değişti.");
         }
 
-         public override void Update2()
+        public override void Update2()
         {
             Console.WriteLine("Job 2 ın statüsü değişti.");
         }
